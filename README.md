@@ -1,4 +1,4 @@
-# microsite-restaurante
+# Microsite Restaurante
 - Desenvolvido com HTML, CSS e JS
 - Responsivo
   
